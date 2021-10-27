@@ -1,2 +1,2 @@
-README.md
+main README.md
 new_file.txt
